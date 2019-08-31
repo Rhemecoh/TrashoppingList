@@ -3,7 +3,7 @@
 
 
 <a href="https://www.youtube.com/watch?v=YWGfUnNXqqs">Tutorial</a>
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/1.png">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/1.png" weight="400" height="200">
 
 <img src="https://rhemecoh.github.io/TrashoppingList-Website/img/2.png">
 
