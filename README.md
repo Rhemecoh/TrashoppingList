@@ -3,14 +3,14 @@
 
 
 <a href="https://www.youtube.com/watch?v=YWGfUnNXqqs">Tutorial</a>
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/1.png" weight="400" height="200">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/1.png" height="300">
 
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/2.png">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/2.png" height="300">
 
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/5.png">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/5.png" height="300">
 
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/6.png">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/6.png" height="300">
 
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/7.png">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/7.png" height="300">
 
-<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/11.png">
+<img src="https://rhemecoh.github.io/TrashoppingList-Website/img/11.png" height="300">
